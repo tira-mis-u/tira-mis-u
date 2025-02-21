@@ -8,23 +8,31 @@ const MinhTris = {
   nickname: "mtris" || "lnmtris" || "PKs" || "PearKs",
   isSingle: true,
   missHerSoMuch: true,
+  isHuman: true,
   programming: {
     languages: {
       frontEnd: [ "HTML", "JavaScript", "CSS" ],
-      backEnd: [ "C++", "C#", "Java", "Python" ],
+      backEnd: [ "C", "C++", "C#", "Java", "Python" ]
     },
     databases: {
       SQL: [ "PostgreSQL", "Microsoft SQL server", "Oracle" ],
       noSQL: [ "MongoDB", "Cassandra", "Redis" ]
     },
-    technologies: {
+    frameworks: {
       frontEnd: {
-        javaScript: [ "node.js", "Three.js", "React.js", "express.js", "electron.js", "typescript", "babel.js" ],
+        javaScript: [ "jQuery", "node.js", "Three.js", "React.js", "express.js", "electron.js", "typescript", "babel.js" ],
         css: [ "Bootstrap", "SASS", "TailwindCSS" ]
       },
       backEnd: {
-        python: [ "Pygame" ]
+        python: [ "Pygame" ],
+        CSharp: [ "dotnet" ]
       }
+    },
+    applications: {
+      gameEngine: ["Game Maker", "Godot", "Unity"],
+      design: [ "Aseprite" ],
+      IDE: ["VSCode"],
+      textEditor: ["Sublime Text"]
     }
   }
 }

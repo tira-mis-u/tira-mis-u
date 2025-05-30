@@ -1,38 +1,34 @@
   **AboutMe.js**
 ```js
-const MinhTris = {
+const Tris = {
   gender: "Male",
   country: "Viet Nam",
   province: "Ha Noi",
-  pronouns: "He" || "Him",
-  nickname: "mtris" || "lnmtris" || "PKs" || "PearKs",
+  pronouns: ["He", "Him"],
+  nickname: ["Luzz", "PKs"],
   isSingle: true,
   missHerSoMuch: true,
-  isHuman: true,
+  isRobot: false,
   programming: {
     languages: {
-      frontEnd: [ "HTML", "JavaScript", "CSS" ],
+      frontEnd: [ "HTML", "JavaScript", "CSS", "TypeScript" ],
       backEnd: [ "C", "C++", "C#", "Java", "Python" ]
     },
     databases: {
       SQL: [ "PostgreSQL", "Microsoft SQL server", "Oracle" ],
       noSQL: [ "MongoDB", "Cassandra", "Redis" ]
     },
-    frameworks: {
-      frontEnd: {
-        javaScript: [ "jQuery", "node.js", "Three.js", "React.js", "express.js", "electron.js", "typescript", "babel.js" ],
-        css: [ "Bootstrap", "SASS", "TailwindCSS" ]
-      },
-      backEnd: {
-        python: [ "Pygame" ],
-        CSharp: [ "dotnet" ]
-      }
+    technologies: {
+      javaScript: [ "jQuery", "node.js", "Three.js", "React.js", "express.js", "babel.js" ],
+      css: [ "Bootstrap", "SASS", "TailwindCSS" ],
+      python: [ "Pygame" ],
+      CSharp: [ ".NET" ]
     },
     applications: {
       gameEngine: ["Game Maker", "Godot", "Unity"],
       design: [ "Aseprite" ],
-      IDE: ["VSCode"],
-      textEditor: ["Sublime Text"]
+      IDE: ["Dev-C++"],
+      textEditor: ["Sublime Text", "VSCode"]
     }
   }
 }
@@ -62,7 +58,7 @@ const MinhTris = {
 </details>
 
 <details>
-  <summary>Apps & IDEs 👨‍💻</summary> <br/>
+  <summary>Apps, IDEs & Text Editors 👨‍💻</summary> <br/>
   <table>
   	<tr>
   		<td><img width="30" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></td>
@@ -98,7 +94,7 @@ const MinhTris = {
 </details>
 
 <details>
-  <summary>Frameworks, Platforms and Libraries 📚</summary> <br/>
+  <summary>Frameworks, Platforms & Libraries 📚</summary> <br/>
   <table>
   	<tr>
   		<td><img width="30" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></td>

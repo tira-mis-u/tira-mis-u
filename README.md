@@ -4,30 +4,39 @@ const Tris = {
   gender: "Male",
   country: "Viet Nam",
   province: "Ha Noi",
-  pronouns: ["He", "Him"],
-  nickname: ["Luzz", "PearKs"],
+  pronouns: ["he", "him"],
+  nickname: ["Luzz", "Tira"],
   isSingle: true,
-  programming: {
+  techStack: {
     languages: {
-      frontEnd: [ "HTML", "JavaScript", "CSS", "TypeScript" ],
-      backEnd: [ "C", "C++", "C#", "Java", "Python" ]
+      frontend: ["JavaScript", "TypeScript"],
+      backend: ["C", "C++", "C#", "Java", "Python"]
+    },
+    markupStyle: ["HTML", "CSS"],
+    runtimes: {
+      javascript: ["Node.js"],
+      csharp: [".NET"],
+      java: ["JVM"]
+    },
+    frameworks: {
+      frontend: ["React"],
+      backend: ["Express"]
+    },
+    libraries: {
+      javascript: ["jQuery"]
     },
     databases: {
-      SQL: [ "PostgreSQL", "Microsoft SQL server", "Oracle" ],
-      noSQL: [ "MongoDB", "Cassandra", "Redis" ]
+      sql: ["PostgreSQL", "Microsoft SQL Server", "Oracle"],
+      nosql: ["MongoDB", "Cassandra", "Redis"]
     },
-    technologies: {
-      javaScript: [ "jQuery", "node.js", "Three.js", "React.js", "express.js", "babel.js" ],
-      css: [ "Bootstrap", "SASS", "TailwindCSS" ],
-      python: [ "Pygame" ],
-      CSharp: [ ".NET" ]
+    tools: {
+      css: ["Bootstrap", "TailwindCSS", "SASS"],
+      build: ["Babel"],
+      design: ["Aseprite", "Figma"],
+      gameDev: ["Unity", "Godot", "GameMaker", "Pygame"]
     },
-    applications: {
-      gameEngine: ["Game Maker", "Godot", "Unity"],
-      design: [ "Aseprite" ],
-      IDE: ["Dev-C++"],
-      textEditor: ["Sublime Text", "VSCode"]
-    }
+    editors: ["VSCode", "Sublime Text"],
+    ides: ["Dev-C++"]
   }
 }
 ```

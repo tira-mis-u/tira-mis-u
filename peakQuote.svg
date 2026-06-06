@@ -1,8 +1,6 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="1000"
-    height="300"
-    viewBox="0 0 1000 300">
+    viewBox="0 0 1000 320">
 
     <defs>
         <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -13,64 +11,82 @@
 
     <!-- Background -->
     <rect
-        x="0"
-        y="0"
         width="1000"
-        height="300"
+        height="320"
         rx="20"
-        fill="url(#bg)"/>
+        fill="url(#bg)" />
 
-    <!-- Accent bar -->
+    <!-- Accent -->
     <rect
         x="35"
-        y="45"
+        y="40"
         width="8"
-        height="190"
+        height="220"
         rx="4"
-        fill="#7aa2f7"/>
+        fill="#7aa2f7" />
 
     <!-- Opening quote -->
     <text
         x="65"
-        y="85"
+        y="95"
         fill="#7aa2f7"
-        font-size="60"
-        font-family="Arial">
+        font-size="72"
+        font-family="Georgia, serif">
         “
     </text>
 
-    <!-- Quote text -->
+    <!-- Closing quote -->
+    <text
+        x="885"
+        y="225"
+        fill="#7aa2f7"
+        font-size="72"
+        font-family="Georgia, serif">
+        ”
+    </text>
+
+    <!-- Quote -->
     <text
         fill="#c0caf5"
-        font-size="24"
-        font-family="Arial">
+        font-size="30"
+        font-family="Arial, sans-serif">
 
-        <tspan x="100" y="85">
+        <tspan x="120" y="90">
             Non sông Việt Nam có trở nên tươi đẹp hay không,
         </tspan>
 
-        <tspan x="100" y="125">
+        <tspan x="120" y="130">
             dân tộc Việt Nam có bước tới đài vinh quang để sánh vai
         </tspan>
 
-        <tspan x="100" y="165">
+        <tspan x="120" y="170">
             với các cường quốc năm châu được hay không,
         </tspan>
 
-        <tspan x="100" y="205">
-            chính là nhờ một phần lớn ở công học tập của các em.”
+        <tspan x="120" y="210">
+            chính là nhờ một phần lớn ở công học tập của các em.
         </tspan>
 
     </text>
 
+    <!-- Signature line -->
+    <!-- <line
+        x1="650"
+        y1="255"
+        x2="920"
+        y2="255"
+        stroke="#7aa2f7"
+        stroke-width="2" /> -->
+
     <!-- Author -->
     <text
-        x="930"
-        y="270"
+        x="920"
+        y="290"
         text-anchor="end"
         fill="#9aa5ce"
-        font-size="20"
-        font-family="Arial">
+        font-size="25"
+        font-style="italic"
+        font-family="Arial, sans-serif">
         — Chủ tịch Hồ Chí Minh
     </text>
 

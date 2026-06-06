@@ -1,0 +1,44 @@
+<!-- Opening quote -->
+<text
+  x="70"
+  y="70"
+  font-size="58"
+  fill="#7aa2f7"
+  font-family="Georgia">
+  “
+</text>
+
+<!-- Quote -->
+<text
+  fill="#c0caf5"
+  font-size="24"
+  font-family="Segoe UI, Arial, sans-serif">
+
+  <tspan x="105" y="75">
+    Non sông Việt Nam có trở nên tươi đẹp hay không,
+  </tspan>
+
+  <tspan x="105" y="115">
+    dân tộc Việt Nam có bước tới đài vinh quang để sánh vai
+  </tspan>
+
+  <tspan x="105" y="155">
+    với các cường quốc năm châu được hay không,
+  </tspan>
+
+  <tspan x="105" y="195">
+    chính là nhờ một phần lớn ở công học tập của các em.”
+  </tspan>
+
+</text>
+
+<!-- Author -->
+<text
+  x="930"
+  y="250"
+  text-anchor="end"
+  fill="#9aa5ce"
+  font-size="20"
+  font-family="Segoe UI, Arial, sans-serif">
+  — Chủ tịch Hồ Chí Minh
+</text>

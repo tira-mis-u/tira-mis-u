@@ -129,6 +129,6 @@ const Tris = {
 </details>
 
 ---
-<div styles="display:flex;flex-wrap:wrap;align-items:center;">
- <img height="300" width="500" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Non%20s%C3%B4ng%20Vi%E1%BB%87t%20Nam%20c%C3%B3%20tr%E1%BB%9F%20n%C3%AAn%20t%C6%B0%C6%A1i%20%C4%91%E1%BA%B9p%20hay%20kh%C3%B4ng,%20d%C3%A2n%20t%E1%BB%99c%20Vi%E1%BB%87t%20Nam%20c%C3%B3%20b%C6%B0%E1%BB%9Bc%20t%E1%BB%9Bi%20%C4%91%C3%A0i%20vinh%20quang%20%C4%91%E1%BB%83%20s%C3%A1nh%20vai%20v%E1%BB%9Bi%20c%C3%A1c%20c%C6%B0%E1%BB%9Dng%20qu%E1%BB%91c%20n%C4%83m%20ch%C3%A2u%20%C4%91%C6%B0%E1%BB%A3c%20hay%20kh%C3%B4ng,%20ch%C3%ADnh%20l%C3%A0%20nh%E1%BB%9D%20m%E1%BB%99t%20ph%E1%BA%A7n%20l%E1%BB%9Bn%20%E1%BB%9F%20c%C3%B4ng%20h%E1%BB%8Dc%20t%E1%BA%ADp%20c%E1%BB%A7a%20c%C3%A1c%20em.&author=V%E1%BB%8B%20L%C3%A3nh%20T%E1%BB%A5%20V%C4%A9%20%C4%90%E1%BA%A1i%20H%E1%BB%93%20Ch%C3%AD%20Minh" />
+<div align="center">
+ <img width="100%" src="/peakQuote.svg" />
 </div>

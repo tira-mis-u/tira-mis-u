@@ -1,3 +1,16 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=25F77F&center=true&vCenter=true&width=750&height=36&lines=Welcome+to+Tearamisu's+Profile;Bienvenue+sur+le+profil+de+Tearamisu;Tearamisu%E3%81%AE%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0+Tearamisu+%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5;Tearamisu%EC%9D%98+%ED%94%84%EB%A1%9C%ED%95%84%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/tira-mis-u/tira-mis-u/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution grid snake animation"
+  />
+</div>
+
+---
+
   **AboutMe.js**
 ```js
 const Tris = {

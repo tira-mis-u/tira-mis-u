@@ -12,7 +12,7 @@
 <details width="100">
   <summary>
     &nbsp;<img width="20" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
-    <h2><code>AboutMe.js</code></h2>&nbsp; — &nbsp;<i>Curious? Just peek inside.</i>
+    <h2><code>AboutMe.js</code></h2>&nbsp; — &nbsp;<i>Curious? Just peek inside 👀</i>
   </summary>
   
   ```js
@@ -47,7 +47,7 @@ export default profile;
 
 <div align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=tcoder206&color=00ad5b&label=%F0%9F%91%80+Profile+Views+++++&abbreviated=true"
+    src="https://komarev.com/ghpvc/?username=tira-mis-u&style=for-the-badge&abbreviated=true"
     alt="Profile Views"
   />
 </div>

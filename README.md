@@ -50,6 +50,8 @@ export default profile;
     src="https://komarev.com/ghpvc/?username=tira-mis-u&style=for-the-badge&abbreviated=true"
     alt="Profile Views"
   />
+  <!-- <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> -->
+  <a href="https://discord.gg/WrHnJTBEfR"><img src="https://img.shields.io/discord/1442895397667209348.svg?&style=for-the-badge&abbreviated=true&label=Join%20Our%20Server%20UwU&color=7289DA" alt="Join Community Badge"/></a>
 </div>
 
 <div align="center">
